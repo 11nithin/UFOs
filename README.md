@@ -9,7 +9,7 @@ A webpage is created with filters "Date" ,"City", "State", "Country", "Shape". U
 
 - Following Image shows a page when filter is applied.
 
-![filter]()
+![filter](https://github.com/11nithin/UFOs/blob/main/Resources/filter.PNG)
 
 
 ## Summary
@@ -28,9 +28,9 @@ input {
 
 
 - Before
-![before]()
+![before](https://github.com/11nithin/UFOs/blob/main/Resources/before.PNG)
 
 -After
-![after]()
+![after](https://github.com/11nithin/UFOs/blob/main/Resources/after.PNG)
 
 
