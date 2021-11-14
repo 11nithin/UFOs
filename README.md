@@ -27,10 +27,14 @@ input {
 ````
 
 
-- Before
+#### Before
+
+
 ![before](https://github.com/11nithin/UFOs/blob/main/Resources/before.PNG)
 
--After
+#### After
+
+
 ![after](https://github.com/11nithin/UFOs/blob/main/Resources/after.PNG)
 
 
