@@ -2,6 +2,13 @@ body {
     color: #f7f7f7;
 }
 
+input {
+    color: black !important;
+}
+
+::placeholder {
+    color:lightgray !important;
+}
 
 .jumbotron  {        
     background-image: url("../images/nasa.jpg");
