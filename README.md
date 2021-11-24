@@ -12,6 +12,11 @@ A webpage is created with filters "Date" ,"City", "State", "Country", "Shape". U
 ![filter](https://github.com/11nithin/UFOs/blob/main/Resources/filter.PNG)
 
 
+## Resources
+- Javascript ES5, HTML, VS Code 1.51.1
+- D3.js JavaScript library
+
+
 ## Summary
 
 One of the drawback of this webpage is the similar color for the placeholder. It is hard to distiguish the between the entered value and example value. I  would change the font color in the css file.
