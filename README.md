@@ -3,6 +3,10 @@
 ## Purpose of the analysis
 To create a webpage and dynamic table with filters using JavaScript and Bootstrap.
 
+## Resources
+- Javascript ES5, HTML, VS Code 1.51.1
+- D3.js JavaScript library
+
 ## Results
 
 A webpage is created with filters "Date" ,"City", "State", "Country", "Shape". User can input the filters and get an optimizeed result.
@@ -12,9 +16,7 @@ A webpage is created with filters "Date" ,"City", "State", "Country", "Shape". U
 ![filter](https://github.com/11nithin/UFOs/blob/main/Resources/filter.PNG)
 
 
-## Resources
-- Javascript ES5, HTML, VS Code 1.51.1
-- D3.js JavaScript library
+
 
 
 ## Summary
